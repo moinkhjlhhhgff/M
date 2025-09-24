@@ -13,8 +13,8 @@ import fcntl  # Added for file locking
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '8444789087:AAGQySXanGhVskGfVq8NMeya48E7GSl5fL8'
-CHANNEL_ID = -1003070879678
+TOKEN = '7343295464:AAEM7vk5K3cNXAywZC_Q11wmMzMu4gk09PU'
+CHANNEL_ID = -1002056936761
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 bot = telebot.TeleBot(TOKEN)
