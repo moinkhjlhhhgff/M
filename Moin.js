@@ -1,0 +1,1 @@
+echo '{}' > Moin.js
